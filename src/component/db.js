@@ -26,7 +26,7 @@ export const data = [
         model: 2022,
         approved: false,
         available: true,
-        img: 'https://viberstore.ie/image/cache/data/2022JAN/iPhone/15promax-500x500.png',
+        img: 'https://wondamobile.com/cdn/shop/files/iphone_15_pro_all_1.png?v=1705170375',
         description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora quisquam dicta similique dolorem minus doloribus aliquid expedita nesciunt eligendi odit. Tempora quos fugiat consectetur nesciunt?'
     },
 ];

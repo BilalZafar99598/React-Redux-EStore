@@ -21,6 +21,7 @@ const ProductPage = ({ products }) => {
         <p>
             {items.approved ? (<span className='yes'>Approved</span>) : (<span className='no'>Non-PTA</span>)}
         </p>
+        <p className='description'>{items.description}</p>
 
     </div>
   )
